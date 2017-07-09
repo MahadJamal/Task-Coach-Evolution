@@ -3,6 +3,5 @@
   <component name="ExportToHTMLSettings">
     <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop/coverage" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.5 (/usr/bin/python)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7 (C:\Python27\python.exe)" project-jdk-type="Python SDK" />
 </project>
-
